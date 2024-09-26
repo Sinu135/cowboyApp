@@ -7,11 +7,11 @@ init(Req, State) ->
     io:format("Request: ~p~n", [Req]),  %% Imprimir el Request para depuración
     case cowboy_req:reply(200,
         #{<<"content-type">> => <<"text/plain">>},
-        <<"¡Hola Mundo desde Cowboy!">>,
+        <<"Hola Mundo desde Cowboy!">>,
         Req) of
         {ok, Resp} ->
             {ok, Resp, State};
-        {error, Reason} ->
+        {error, Reason} -> %% manejador de errores añadido duranto el debugeo
             %% Manejo del error
             io:format("Error al enviar respuesta: ~p~n", [Reason]),
             {stop, Reason, State}

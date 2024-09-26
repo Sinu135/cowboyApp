@@ -5,7 +5,7 @@
 -export([start/2, stop/1]).
 
 start(_Type, _Args) ->
-    io:format("~s~n", ["arrancando"]),
+    io:format("~s~n", ["arrancando"]), %%añadido durante el debugeo
     Dispatch = cowboy_router:compile([
         {'_', [
             {"/", my_cowboy_handler, []}
