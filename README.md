@@ -1,9 +1,9 @@
-my_cowboy_app
-=====
+# Cowboy app
 
-An OTP application
+## Asciinemas
 
-Build
------
+### Servidor
+[![asciicast](https://asciinema.org/a/XQ4kpozYKcVE8xoJIORJeC3Uo.svg)](https://asciinema.org/a/XQ4kpozYKcVE8xoJIORJeC3Uo)
 
-    $ rebar3 compile
+### Request
+[![asciicast](https://asciinema.org/a/8KyXuEPmT9cbNlP82QKvVdLcL.svg)](https://asciinema.org/a/8KyXuEPmT9cbNlP82QKvVdLcL)
