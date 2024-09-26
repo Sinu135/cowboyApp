@@ -1,0 +1,11 @@
+{application, my_cowboy_app,
+ [
+  {description, "Aplicación Cowboy"},
+  {vsn, "0.1.0"},
+  {modules, [my_cowboy_app_app, my_cowboy_handler, my_cowboy_app_sup]},
+  {registered, []},
+  {applications, [kernel, stdlib, cowboy]},
+  {mod, {my_cowboy_app_app, []}},
+  {env, []},
+  {extra_applications, [logger]}
+ ]}.
