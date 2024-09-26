@@ -1,5 +1,11 @@
 # Cowboy app
 
+Velazquez Duran Sinuhe de Jesus 21212060
+
+## Preguntas teoricas
+
+[Gist](https://gist.github.com/Sinu135/809f1e9386c82de0df08a17a93d95ecd)
+
 ## Asciinemas
 
 ### Desarrollo
