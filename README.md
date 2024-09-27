@@ -11,8 +11,13 @@ Velazquez Duran Sinuhe de Jesus 21212060
 ### Desarrollo
 [![asciicast](https://asciinema.org/a/45O6h0anUyVyMdiZ8xRjevTDX.svg)](https://asciinema.org/a/45O6h0anUyVyMdiZ8xRjevTDX)
 
+### Implementacion de /saludar
+[![asciicast](https://asciinema.org/a/jhCZYGn735sD0yFM1dZEaPBMF.svg)](https://asciinema.org/a/jhCZYGn735sD0yFM1dZEaPBMF)
+
+[![asciicast](https://asciinema.org/a/y8vEVR4tVERSuygfRAXEFpxHA.svg)](https://asciinema.org/a/y8vEVR4tVERSuygfRAXEFpxHA)
+
 ### Servidor
-[![asciicast](https://asciinema.org/a/XQ4kpozYKcVE8xoJIORJeC3Uo.svg)](https://asciinema.org/a/XQ4kpozYKcVE8xoJIORJeC3Uo)
+[![asciicast](https://asciinema.org/a/agM1ogWFhacbIpSwhRCloKPcy.svg)](https://asciinema.org/a/agM1ogWFhacbIpSwhRCloKPcy)
 
 ### Request
-[![asciicast](https://asciinema.org/a/8KyXuEPmT9cbNlP82QKvVdLcL.svg)](https://asciinema.org/a/8KyXuEPmT9cbNlP82QKvVdLcL)
+[![asciicast](https://asciinema.org/a/rCKkdKVCUZ9fm0OTZfQ4pzsGC.svg)](https://asciinema.org/a/rCKkdKVCUZ9fm0OTZfQ4pzsGC)
