@@ -8,7 +8,8 @@ start(_Type, _Args) ->
     io:format("~s~n", ["arrancando"]), %%añadido durante el debugeo
     Dispatch = cowboy_router:compile([
         {'_', [
-            {"/", my_cowboy_handler, []}
+            {"/", my_cowboy_handler, []},
+            {"/saludar", saludar_handler, []}
         ]}
     ]),
     {ok, _} = cowboy:start_clear(http_listener,

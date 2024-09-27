@@ -2,7 +2,12 @@
  [
   {description, "Aplicación Cowboy"},
   {vsn, "0.1.0"},
-  {modules, [my_cowboy_app_app, my_cowboy_handler, my_cowboy_app_sup]},
+  {modules, [
+	my_cowboy_app_app, 
+	my_cowboy_handler, 
+	my_cowboy_app_sup,
+	saludar_handler	
+  ]},
   {registered, []},
   {applications, [kernel, stdlib, cowboy]},
   {mod, {my_cowboy_app_app, []}},
